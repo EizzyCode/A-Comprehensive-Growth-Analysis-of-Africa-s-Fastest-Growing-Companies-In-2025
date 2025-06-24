@@ -60,7 +60,7 @@ The analysis employed systematic data integration, advanced Power BI modeling, a
 * **Data Integration and Modeling:** Structured the dataset into dimensional models within Power BI, creating relationships between company performance tables, growth data, revenue figures, and geographic information. Established proper data hierarchies for regions, sectors, and company maturity levels to enable comprehensive drill-down analysis across growth dimensions.
 * **Data Cleaning and Transformation:** Utilized Power Query for standardizing sector classifications, handling missing values in growth calculations, validating revenue figures and growth percentages, and ensuring consistent geographic and sector classifications. Applied data quality checks to maintain analytical integrity across growth metrics and revenue calculations.
 
-PRE-ANALYSIS
+## PRE-ANALYSIS
 Before developing the detailed dashboard pages, I conducted a comprehensive pre-analysis phase to establish the analytical framework for understanding Africa’s fastest-growing companies and their growth patterns.
 
 * **Project Structure and Growth Variables:** Identified key growth metrics, including absolute growth percentages, compound annual growth rates, total revenue figures, sector-specific performance indicators, and regional distribution patterns to understand the complex relationships within Africa’s high-growth business ecosystem. This helped establish which factors drive sustainable growth and what insights could guide stakeholder investment and strategic decisions.
